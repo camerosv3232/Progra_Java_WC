@@ -12,7 +12,7 @@ import java.io.InputStreamReader;
 public class Banco {
     public static void main(String[] args) throws IOException {
         Cliente c = new Cliente();
-        c.setNombre("Angel");
+        c.setNombre("Willmer");
         c.setEdad(29);
         c.setSalario(2500);
 
